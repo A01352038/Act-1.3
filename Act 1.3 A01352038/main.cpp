@@ -1,3 +1,8 @@
+// =========================================================
+// File: main.cpp
+// Sergio Augusto Macías Corona - A01352038
+// Date: 12/09/2022
+// =========================================================
 using namespace std;
 #include <iostream>
 #include <fstream>
@@ -9,8 +14,7 @@ using namespace std;
 #include <iomanip>
 #include <ctime>
 #include "selection.h"
-//Sergio Augusto Macías Corona
-//A01352038
+
 int main(int argc, char *argv[])
 {
   ifstream inputFile;
